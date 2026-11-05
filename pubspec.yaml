@@ -2,7 +2,7 @@ name: otel_sumsub
 description: >-
   OpenTelemetry instrumentation for sumsub by Dartastic.io. Adds standard
   OpenTelemetry observability to applications that use sumsub.
-version: 0.1.0
+version: 0.1.1-wip
 repository: https://github.com/dartastic/otel_sumsub
 homepage: https://dartastic.io
 
